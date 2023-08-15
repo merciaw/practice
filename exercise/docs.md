@@ -1,4 +1,4 @@
 This documentation describes how to use the Karel robotic megazorg toothbrush.
 
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, trees and brontosaurus
+Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, trees, brontosaurus and Tardigrade
 
